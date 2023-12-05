@@ -1,14 +1,14 @@
 # Data Scientist
 
-#### Technical Skills
+## Technical Skills
 
-###### Programming Languages: Python, Polars, Scala, Dask, Pandas, Numpy
+#### Programming Languages: Python, Polars, Scala, Dask, Pandas, Numpy
 
-###### Databases: SQL, DuckDb, DynamoDb, Neo4j, Redis
+#### Databases: SQL, DuckDb, DynamoDb, Neo4j, Redis
 
-###### Softwares: PySpark, Dbt, Kafka, Airflow, Docker, AWS, Kubernetes
+#### Softwares: PySpark, Dbt, Kafka, Airflow, Docker, AWS, Kubernetes
 
-###### Visualization Tools: Tableau, Looker, Qlik, Metabase
+#### Visualization Tools: Tableau, Looker, Qlik, Metabase
 
 
 ## Education
