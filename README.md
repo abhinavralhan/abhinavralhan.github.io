@@ -12,8 +12,8 @@
 
 
 ## Education
-- M.Sc., Web & Data Science | University of Koblenz (_November 2023_)
-- B.Sc., Computer Science	| NIIT University (_August 2019_)
+- M.Sc., Web & Data Science -  University of Koblenz (_November 2023_)
+- B.Sc., Computer Science -  NIIT University (_August 2019_)
 
 ## Work Experience
 **Data Scientist Werkstudent @ Sportec Solutions AG (_October 2022 - November 2023_)**
