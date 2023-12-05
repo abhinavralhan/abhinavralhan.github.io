@@ -1,19 +1,28 @@
 # Data Scientist
 
-#### Technical Skills: Python/Pandas/Polars, SQL, AWS, Dbt, DuckDb, Scala, PySpark, Dask, Tableau/Looker/Qlik/Metabase
+#### Technical Skills
+
+###### Programming Languages: Python, Polars, Scala, Dask, Pandas, Numpy
+
+###### Databases: SQL, DuckDb, DynamoDb, Neo4j, Redis
+
+###### Softwares: PySpark, Dbt, Kafka, Airflow, Docker, AWS, Kubernetes
+
+###### Visualization Tools: Tableau, Looker, Qlik, Metabase
+
 
 ## Education
 - M.Sc., Web & Data Science | University of Koblenz (_November 2023_)
 - B.Sc., Computer Science	| NIIT University (_August 2019_)
 
 ## Work Experience
-**Data Scientist @ Simpl (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist Werkstudent @ Sportec Solutions AG (_October 2022 - November 2023_)**
+- bla bla bla
+- bla bla bla
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist @ Simpl (_January 2019 - October 2022_)**
+- bla bla bla
+- bla bla bla
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
