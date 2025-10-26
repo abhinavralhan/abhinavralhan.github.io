@@ -1,14 +1,14 @@
-# Data Scientist / ML Engineer
+# Analytics / ML Engineer
 
 ## Technical Skills
 
-#### Programming Languages: Python, Polars, Scala, Dask, Pandas, Numpy
+#### Programming Languages: Python, Pandas, Numpy, SQL
 
-#### Databases: SQL, DuckDb, DynamoDb, Neo4j, Redis
+#### Databases: MySQL, ClickhouseDb, PostgreSql, DuckDb, Neo4j, Redis, Redshift
 
-#### Softwares: PySpark, Dbt, Kafka, Airflow, Docker, AWS, Kubernetes
+#### Frameworks: Jupyerhub, Kafka, Airflow, Spark, Dbt, Docker, AWS, Grafana
 
-#### Visualization Tools: Tableau, Looker, Qlik, Metabase
+#### Visualization Tools: Metabase, Tableau, Qlik
 
 
 ## Education
@@ -16,13 +16,31 @@
 - B.Sc., Computer Science -  NIIT University (_August 2019_)
 
 ## Work Experience
-**Data Scientist Werkstudent @ Sportec Solutions AG (_October 2022 - November 2023_)**
-- bla bla bla
-- bla bla bla
+**Analytics Engineer @ 360 Digital Starters**
+- Developing reports and alerts for general Marketing metrics (CTR,
+ROI, ROAS, CPA). Setting up A/B tests for various campaigns and
+across multiple products.
+- Setting up real-time ETL pipelines from scratch using Kafka,
+ClickhouseDb, Metabase and monitoring of real-time services using
+Docker, Grafana.
+- Built and implemented a multi-touch attribution model to
+accurately attribute conversion across channels and optimize
+marketing performance insights.
+- Alerts to monitor issues in deployments, downtimes, SLAs.
 
-**Data Scientist @ Simpl (_January 2019 - October 2022_)**
-- bla bla bla
-- bla bla bla
+**Data Science Werkstudent @ Sportec Solutions AG (_October 2022 - November 2023_)**
+- Synchronization Algorithm - Improve shot identification by ~5%
+overall accuracy over the baseline.
+- Masters Thesis - Completed Research and Development for the
+topic "Estimating effectiveness of defensive KPIs in football."
+
+**Machine Learning Engineer @ Simpl (_January 2019 - October 2022_)**
+- Developed the infra and built multiple anti-fraud predictive Machine Learning models.
+Overall, increased the F-1 score of the entire Anti Fraud Risk engine by ~ 41%
+- Reduce p99 metrics response time for all services in the anti fraud
+by an average 22%.
+- Developed an end-to-end automated blocking and flagging
+system of suspicious users.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
